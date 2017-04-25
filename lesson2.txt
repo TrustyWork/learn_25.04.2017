@@ -1,0 +1,20 @@
+<!DOCYPE>
+<html>
+<head>
+<meta charset="utf8">
+<link rel="stylesheet" href="css/lesson2.css">
+</head>
+
+
+<!--комментарий---->
+<body>
+
+<li>Я хочу напиться чаю,</li>
+<li>К самовару подбегаю,</li>
+<li>Но пузатый от меня</li>
+<li>Убежал, как от огня.</li>
+
+
+</body>
+
+</html>
