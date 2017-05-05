@@ -1,0 +1,36 @@
+body, html {
+	background-color: #000000;
+	text-color:
+	font-align: center;
+}
+div.center {
+	position: absolute;
+    width: 400px; /* Ширина элемента в пикселах */
+	height: 100px;
+    padding: 40px; /* Поля вокруг текста */
+    margin: auto; /* Выравниваем по центру */
+	left: 50%; /* Положение слоя от левого края */
+    top: 50%; /* Положение слоя от верхнего края */
+    background: #2C446A; /* Цвет фона */
+	text-align: center;
+   }
+div.zaglavnaya { 
+    text-transform: capitalize; /* Каждое слово начинается с заглавной буквы */
+   }   
+div.bigtext {
+	text-transform: uppercase;
+			}
+span.twist {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 14pt;
+	font-style: italic;
+	font-weight: 800;
+	text-decoration: underline;
+	text-transform: capitalize;
+	}	
+span.textblue {
+	color: #99ccff;
+	}
+p.whitext {
+	color: #ffffff;
+}
