@@ -1,0 +1,50 @@
+body {
+	padding-bottom: 50px;
+}
+h1 {
+	color: #0ff;
+}
+div {
+	background: #ccc;
+	width: 1200px;
+	height: 250px;
+	padding: 10px;
+	border: 10px solid #f0f;
+	box-sizing: border-box;
+	margin: 10px;
+}
+span {
+	background: #ccc;
+	width: 1200px;
+	height: 250px;
+	padding: 10px;
+	border: 10px solid #f0f;
+	box-sizing: border-box;
+	margin: 10px;
+	line-height: 60px;
+}
+p {
+	background: #ccc;
+	width: 1200px;
+	height: 250px;
+	padding: 10px;
+	border: 10px solid #f0f;
+	box-sizing: border-box;
+	margin: 10px;
+}
+a {
+	display: block;
+	background: #ccc;
+	width: 1200px;
+	height: 250px;
+	padding: 10px;
+	border: 10px solid #f0f;
+	box-sizing: border-box;
+	margin: 10px;
+	overflow: hidden;
+	text-overflow: clip;
+}
+b {
+	font-family: "Open Sans";
+	font-weight: 700;
+}

@@ -1,36 +1,35 @@
 body, html {
 	background-color: #000000;
-	text-color:
-	font-align: center;
+	color:#ffffff;
+	font-family: 'Open Sans', sans-serif;
+}
+body {
+	padding-top: 15%;
 }
 div.center {
-	position: absolute;
-    width: 400px; /* Ширина элемента в пикселах */
+    width: 400px; /* пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ */
 	height: 100px;
-    padding: 40px; /* Поля вокруг текста */
-    margin: auto; /* Выравниваем по центру */
-	left: 50%; /* Положение слоя от левого края */
-    top: 50%; /* Положение слоя от верхнего края */
-    background: #2C446A; /* Цвет фона */
+    padding: 40px; /* пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ */
+    margin: auto; /* пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ */
+    background: #2C446A; /* пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ */
 	text-align: center;
-   }
+}
 div.zaglavnaya { 
-    text-transform: capitalize; /* Каждое слово начинается с заглавной буквы */
-   }   
+    text-transform: capitalize; /* пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ */
+}
 div.bigtext {
 	text-transform: uppercase;
-			}
+}
 span.twist {
-	font-family: Verdana, Arial, Helvetica, sans-serif; 
-    font-size: 14pt;
+	font-size: 14px;
 	font-style: italic;
 	font-weight: 800;
 	text-decoration: underline;
 	text-transform: capitalize;
-	}	
+}
 span.textblue {
 	color: #99ccff;
-	}
+}
 p.whitext {
 	color: #ffffff;
 }
